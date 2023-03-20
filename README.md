@@ -11,8 +11,8 @@ obs: my-app coloquei como "cruid"
      - npm install react-router-dom
 ### Transforma o CSS em componentes 
     - npm install --save styled-components
-    
-<font color="red" - IMPORTANTE
+
+### OBSERVAÇÃO: 
     COLOQUE OS ARQUIVOS COM EXTENSÃO PHP EM UMA PASTA "PROJETO" DENTRO DO DIRETÓRIO "WWW" DENTRO DO WAMPSERVER
     O RESTANTE DOS ARQUIVOS COLOQUE EM UMA PASTA COM NOME DO PROJETO CRIADO EM REACT, DENTRO DO DISCO LOCAL C:/>
     
