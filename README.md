@@ -1,6 +1,15 @@
 # Aplicativo de CRUD para ordens de serviço ou produto, com Back-End em PHP e Front-End em ReactJS
+### LISTAR
+![image](https://user-images.githubusercontent.com/70180407/226294625-c9ffc519-184e-475b-9546-c7caa80817e1.png)
 
-![image](https://user-images.githubusercontent.com/70180407/226293598-df2f204e-76ae-4f19-984d-f2089e351865.png)
+### CADASTRAR
+![image](https://user-images.githubusercontent.com/70180407/226294769-b23b5096-6f74-413f-813b-d5fefc3cbdf1.png)
+
+###VISUALIZAR
+![image](https://user-images.githubusercontent.com/70180407/226294862-9d4d4db8-3a99-4aac-adc0-d7580b2aa028.png)
+
+### APAGAR
+![image](https://user-images.githubusercontent.com/70180407/226294996-44293bd0-4c11-4481-a333-551d0f09eabc.png)
 
 # Sequencia para rodar o projeto
 
