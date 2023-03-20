@@ -5,7 +5,7 @@
 ### CADASTRAR
 ![image](https://user-images.githubusercontent.com/70180407/226297821-f6ad5816-9149-42e0-abe4-9a9e64238ede.png)
 
-###VISUALIZAR
+### VISUALIZAR
 ![image](https://user-images.githubusercontent.com/70180407/226297910-ca0b3d51-fd5e-4cd0-bba6-cdde97c35b4f.png)
 
 ### APAGAR
