@@ -1,5 +1,7 @@
 # Aplicativo de CRUD para ordens de serviço ou produto, com Back-End em PHP e Front-End em ReactJS
 
+![image](https://user-images.githubusercontent.com/70180407/226293598-df2f204e-76ae-4f19-984d-f2089e351865.png)
+
 # Sequencia para rodar o projeto
 
 ### Crie o projeto React utilizando:
