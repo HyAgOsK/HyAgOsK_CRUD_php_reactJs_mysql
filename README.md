@@ -1,3 +1,21 @@
+# Sequencia para rodar o projeto
+
+### Crie o projeto React utilizando:
+    - npx create-react-app@latest my-app
+obs: my-app coloquei como "cruid"
+### Acesse o diretório do projeto criado:
+    - cd my-app
+### Rodando o projeto:
+    - npm start
+### Gerenciar as rotas:
+     - npm install react-router-dom
+### Transforma o CSS em componentes 
+    - npm install --save styled-components
+    
+<font color="red" - IMPORTANTE
+    COLOQUE OS ARQUIVOS COM EXTENSÃO PHP EM UMA PASTA "PROJETO" DENTRO DO DIRETÓRIO "WWW" DENTRO DO WAMPSERVER
+    O RESTANTE DOS ARQUIVOS COLOQUE EM UMA PASTA COM NOME DO PROJETO CRIADO EM REACT, DENTRO DO DISCO LOCAL C:/>
+    
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
